@@ -3,4 +3,5 @@ This case requires trainees to develop a model for predicting fraudulent transac
 
 ### Implementing
 If you are running on your local machine, 
+File Fraud.csv is 470.67 MB; this exceeds GitHub's file size limit of 100.00 MB so you can download the dataset from below link
 <br>Download the dataset: [Link](https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0)
