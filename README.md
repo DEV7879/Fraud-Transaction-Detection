@@ -3,4 +3,4 @@ This case requires trainees to develop a model for predicting fraudulent transac
 
 ### Implementing
 If you are running on your local machine, 
-<br>Download the dataset: [https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data](https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0)https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0
+<br>Download the dataset: [Dataset Download Link](https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0)
